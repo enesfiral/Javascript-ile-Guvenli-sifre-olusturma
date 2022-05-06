@@ -1,1 +1,1 @@
-# Javascript-ile-Guvenli-sifre-olusturma
+# Javascript-ile-sifre-olusturma
